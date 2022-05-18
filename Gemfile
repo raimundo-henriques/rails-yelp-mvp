@@ -6,7 +6,7 @@ ruby '3.0.3'
 # Gems suggested by the exercise:
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
-gem 'simple_form', github: 'heartcombo/simple_form'
+gem 'simple_form'
 
 gem 'faker'
 
